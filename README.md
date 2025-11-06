@@ -1,3 +1,5 @@
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+
 # Deploying a Smart Contract on Coinbase Layer-2 blockchain BASE
 
 [Official BASE documentation related](https://docs.base.org/guides/deploy-smart-contracts)
